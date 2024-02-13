@@ -1,0 +1,14 @@
+C:\Users\ASUS\OneDrive\Рабочий стол\c#\c# intro, Datatypes and more\C#-Hometask-Intro\Csharp-methods\Csharp-methods-practise\Csharp-methods-practise\bin\Debug\net6.0\Csharp-methods-practise.exe
+C:\Users\ASUS\OneDrive\Рабочий стол\c#\c# intro, Datatypes and more\C#-Hometask-Intro\Csharp-methods\Csharp-methods-practise\Csharp-methods-practise\bin\Debug\net6.0\Csharp-methods-practise.deps.json
+C:\Users\ASUS\OneDrive\Рабочий стол\c#\c# intro, Datatypes and more\C#-Hometask-Intro\Csharp-methods\Csharp-methods-practise\Csharp-methods-practise\bin\Debug\net6.0\Csharp-methods-practise.runtimeconfig.json
+C:\Users\ASUS\OneDrive\Рабочий стол\c#\c# intro, Datatypes and more\C#-Hometask-Intro\Csharp-methods\Csharp-methods-practise\Csharp-methods-practise\bin\Debug\net6.0\Csharp-methods-practise.dll
+C:\Users\ASUS\OneDrive\Рабочий стол\c#\c# intro, Datatypes and more\C#-Hometask-Intro\Csharp-methods\Csharp-methods-practise\Csharp-methods-practise\bin\Debug\net6.0\Csharp-methods-practise.pdb
+C:\Users\ASUS\OneDrive\Рабочий стол\c#\c# intro, Datatypes and more\C#-Hometask-Intro\Csharp-methods\Csharp-methods-practise\Csharp-methods-practise\obj\Debug\net6.0\Csharp-methods-practise.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ASUS\OneDrive\Рабочий стол\c#\c# intro, Datatypes and more\C#-Hometask-Intro\Csharp-methods\Csharp-methods-practise\Csharp-methods-practise\obj\Debug\net6.0\Csharp-methods-practise.AssemblyInfoInputs.cache
+C:\Users\ASUS\OneDrive\Рабочий стол\c#\c# intro, Datatypes and more\C#-Hometask-Intro\Csharp-methods\Csharp-methods-practise\Csharp-methods-practise\obj\Debug\net6.0\Csharp-methods-practise.AssemblyInfo.cs
+C:\Users\ASUS\OneDrive\Рабочий стол\c#\c# intro, Datatypes and more\C#-Hometask-Intro\Csharp-methods\Csharp-methods-practise\Csharp-methods-practise\obj\Debug\net6.0\Csharp-methods-practise.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\OneDrive\Рабочий стол\c#\c# intro, Datatypes and more\C#-Hometask-Intro\Csharp-methods\Csharp-methods-practise\Csharp-methods-practise\obj\Debug\net6.0\Csharp-methods-practise.dll
+C:\Users\ASUS\OneDrive\Рабочий стол\c#\c# intro, Datatypes and more\C#-Hometask-Intro\Csharp-methods\Csharp-methods-practise\Csharp-methods-practise\obj\Debug\net6.0\refint\Csharp-methods-practise.dll
+C:\Users\ASUS\OneDrive\Рабочий стол\c#\c# intro, Datatypes and more\C#-Hometask-Intro\Csharp-methods\Csharp-methods-practise\Csharp-methods-practise\obj\Debug\net6.0\Csharp-methods-practise.pdb
+C:\Users\ASUS\OneDrive\Рабочий стол\c#\c# intro, Datatypes and more\C#-Hometask-Intro\Csharp-methods\Csharp-methods-practise\Csharp-methods-practise\obj\Debug\net6.0\Csharp-methods-practise.genruntimeconfig.cache
+C:\Users\ASUS\OneDrive\Рабочий стол\c#\c# intro, Datatypes and more\C#-Hometask-Intro\Csharp-methods\Csharp-methods-practise\Csharp-methods-practise\obj\Debug\net6.0\ref\Csharp-methods-practise.dll

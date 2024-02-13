@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "Csharp-methods-practise/1.0.0": {
+        "runtime": {
+          "Csharp-methods-practise.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Csharp-methods-practise/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
